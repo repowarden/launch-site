@@ -1,0 +1,16 @@
+baseurl: "https://RepoWarden.com/"
+title: "RepoWarden"
+author: "Ricardo N Feliciano (FelicianoTech)"
+canonifyurls: true
+paginate: 3
+
+theme: "hugo-theme-lean-launch-page"
+
+googleAnalytics: "G-K1J11E4629"
+
+params:
+  tagline: "Audit your git repositories based on policy"
+  mailchimpURL: "//RepoWarden.us11.list-manage.com/subscribe/post?u=1e94938f14a455890413761ef&amp;id=526e42e0df&amp;f_id=00a29ae0f0"
+
+  mastodon: "https://nanobyte.cafe/@RepoWarden"
+  twitter: "https://twitter.com/RepoWarden"
