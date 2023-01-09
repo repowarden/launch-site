@@ -14,5 +14,7 @@ params:
 
   mastodon: "https://nanobyte.cafe/@RepoWarden"
   twitter: "https://twitter.com/RepoWarden"
+  github: "https://github.com/RepoWarden"
+  linkedin: "https://www.linkedin.com/company/repowarden"
   images:
     - "favicon.png"
